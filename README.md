@@ -1,4 +1,4 @@
-# calculate_common_coverage - v1.0
+# calculate_common_coverage - v0.1
 
 ## What does this app do?
 This app runs the dockerised [calculate_common_coverage](https://github.com/moka-guys/calculate_common_coverage) script which calculates the % of each gene covered at the required read depth in all samples involved in an analysis.
